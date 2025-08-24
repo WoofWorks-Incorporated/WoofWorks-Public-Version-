@@ -22,7 +22,7 @@
 - [ ] HR manager  
 - [ ] Corporate Inteligence Manager  
 - [X] UND Coordination Manager  
-- [ ] Global Expansion Manager  
+- [X] Global Expansion Manager (T)
 - [X] IT/ CyberSecurity Manager (N)  
 - [X] WoofWorks Labs Manager (N)
 - [X] WoofTech Manager  
