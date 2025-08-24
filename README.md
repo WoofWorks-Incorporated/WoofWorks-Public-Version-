@@ -23,8 +23,8 @@
 - [ ] Corporate Inteligence Manager  
 - [X] UND Coordination Manager  
 - [ ] Global Expansion Manager  
-- [ ] IT/ CyberSecurity Manager  
-- [ ] WoofWorks Labs Manager  
+- [X] IT/ CyberSecurity Manager (N)  
+- [X] WoofWorks Labs Manager (N)
 - [X] WoofTech Manager  
 - [x] Engineering Support Manager  
 - [ ] PR & Markating Manager  
