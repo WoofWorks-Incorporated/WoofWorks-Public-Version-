@@ -39,7 +39,8 @@
 - [x] Internal Secrutity Manager  
 - [ ] Supply Chain/ Distribution Manager  
 - [x] Mega Factorys Manager  
-- [ ] Procurement Manager  
+- [ ] Procurement Manager
+- [x] WoofWorks Studios Manager (C)
 
 
 
